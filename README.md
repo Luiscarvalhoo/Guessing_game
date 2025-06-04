@@ -13,6 +13,14 @@ A simple terminal-based guessing game built in C where the player tries to guess
 - Score system based on guess accuracy
 - Fun ASCII art for win/lose feedback
 
+## 🛠️ Tecnologias e Ferramentas
+
+- 🧠 Linguagem: [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- 🧰 Compilador: GCC
+- 💻 Terminal: PowerShell / Bash
+- 📝 Editor: Visual Studio Code
+
+
 ## 🚀 Getting Started
 
 ### Compilation
